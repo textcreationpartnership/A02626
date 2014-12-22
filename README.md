@@ -35,9 +35,36 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A relation of a voyage to Guiana Describing the climat, scituation, fertilitie, prouisions and commo
+
+1. ❧To the high and
+Mighty Prince, CHARLES, Prince
+of GREAT BRITAINE:
+
+1. ❧To the Readers,
+ADVENTVRERS, FAVORERS,
+and wel-willers to the Plantation
+in GVIANA.
+
 #####Body#####
-A relation of a voyage to Guiana Describing the climat, scituation, fertilitie, prouisions and commo
+
+1. A RELATION
+OF A VOYAGE TO
+Guiana performed by Robert
+Harcourt of Stanton Harcourt in the
+Countie of OXFORD
+Esquire.
+
+1. ¶The names of the Riuers falling into the Sea from
+Amazones, to Dessequebe, and of the seuerall Nations
+inhabiting those Riuers.
+
+1. The Plantation in Guiana is most easie
+to be performed, as is at large expressed in the former
+Treatise: And may in briefe appeare by these notes following,
+which are here added for the better comfort
+and incouragement of the Aduenturers and Planters of
+the meaner sort.
+
 **Types of content**
 
   * There are 2 **verse** lines!
